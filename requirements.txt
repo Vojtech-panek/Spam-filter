@@ -1,0 +1,6 @@
+numpy
+scikit-learn
+beautifulsoup4
+nltk
+urlextract
+jupyter
